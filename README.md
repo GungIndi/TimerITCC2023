@@ -1,1 +1,1 @@
-# timer itcc
+# Simple Timer for ITCC 2023
